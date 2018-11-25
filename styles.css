@@ -72,8 +72,21 @@ h2 {
 
 h3 {
   font-family: "Roboto", sans-serif;
-  color: white;
+  color: black;
+  margin-top: 4px;
+  margin-bottom: 40px;
+  margin-left: 1000px;
 }
-.portfolio {
-  background-image: url(images/image1.jpeg);
+#portfolio {
+  background-image: url(images/image2.jpeg);
+  margin-top: 10px;
+  margin-bottom: 50px;
+
+}
+.section1 {
+  padding: 100px 750px 200px 50px;
+}
+
+.section2 {
+padding: 100px 750px 200px 50px;
 }
