@@ -117,3 +117,7 @@ padding: 100px 750px 200px 50px;
   .fa-instagram {
     background: #125688;
     color: white;
+
+    .fa:hover {
+      opacity: 0.7;
+    }
