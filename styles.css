@@ -72,4 +72,8 @@ h2 {
 
 h3 {
   font-family: "Roboto", sans-serif;
+  color: white;
+}
+.portfolio {
+  background-image: url(images/image1.jpeg);
 }
