@@ -32,20 +32,22 @@ header {
 .main-navigation li.onpoint a {
   border: 1px solid white;
 }
-.main-navigation li a: hover {
+.main-navigation li a:hover {
   border: 1px solid white;
+  background-color: orange;
 }
 
 .intro {
   position: absolute;
   width: 1200px;
   margin-left: 840px;
-  margin-top: 330px;
+  margin-top: 360px;
 }
 
-h1 {
-  color: black;
-  font-size: 70px;
+h1{
+  color: blue;
+  font-size: 17px;
   text-align: center;
   margin-top: 275px;
+  text-transform: uppercase;
 }
