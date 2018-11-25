@@ -29,3 +29,9 @@ header {
   font-size: 15px;
 
 }
+.main-navigation li.onpoint a {
+  border: 1px solid white;
+}
+.main-navigation li a: hover {
+  border: 1px solid white;
+}
