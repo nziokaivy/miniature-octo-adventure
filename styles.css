@@ -35,3 +35,17 @@ header {
 .main-navigation li a: hover {
   border: 1px solid white;
 }
+
+.intro {
+  position: absolute;
+  width: 1200px;
+  margin-left: 840px;
+  margin-top: 330px;
+}
+
+h1 {
+  color: black;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 275px;
+}
