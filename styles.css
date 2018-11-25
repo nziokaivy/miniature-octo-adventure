@@ -52,10 +52,20 @@ h1 {
   font-family: "Roboto", sans-serif;
 }
 
-.aboutme{
+h2 {
+  margin-bottom: 30px;
+}
+
+.aboutme {
   color: black;
   font-size: 17px;
   margin-top: 2px;
+  margin-left: 4px;
   font-family: "Roboto", sans-serif;
+  background-image: url(images/aboutme8.jpeg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
 
 }
