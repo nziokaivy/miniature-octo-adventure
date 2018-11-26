@@ -1,14 +1,14 @@
 #{Application Name: My portfolio landing page.}
 ####Description:
-{This repo contains a simple one-page personal portfolio landing page that was created with HTML and CSS. The site is static.You can edit styles, colours, and scripts fairly easily.
-Find link to live site here.}
+{{This is a simple one-page portfolio landing page that is meant to showcase skills learnt in class on the usage of HTML and CSS.}
 
 ##Current Version Date:
 {26th November 2018.}
 ####Author Name:
 {By **Ivy Nzioka**}
 ## Description
-{This is a simple one-page portfolio landing page that is meant to showcase skills learnt in class on the usage of HTML and CSS.}
+  {This repo contains a simple one-page personal portfolio landing page that was created with HTML and CSS. The site is static.You can edit styles, colours, and scripts fairly easily.
+  Find link to live site here.}
 ## Setup/Installation Requirements
 {Using The Template As It Is
 If you wish to use the template as is (i.e. how it's seen in the demo), then all that's required is the styles.css file, images,and the index.html file. You would then add your content to index.html as needed and you're good to go!}
