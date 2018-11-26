@@ -1,4 +1,4 @@
-#Application Name: My portfolio landing page.
+# Application Name: My portfolio landing page.
 ####Description:
 This is a simple one-page portfolio landing page that is meant to showcase skills learnt in class on the usage of HTML and CSS.
 ##Current Version Date:
