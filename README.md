@@ -9,13 +9,13 @@ By **Ivy Nzioka**
 This repo contains a simple one-page personal portfolio landing page that was created with HTML and CSS. The site is static.You can edit styles, colours, and scripts fairly easily.
 Find link to live site here.
 ## Setup/Installation Requirements
-{Using The Template As It Is
-If you wish to use the template as is (i.e. how it's seen in the demo), then all that's required is the styles.css file, images,and the index.html file. You would then add your content to index.html as needed and you're good to go!}
+Using The Template As It Is
+If you wish to use the template as is (i.e. how it's seen in the demo), then all that's required is the styles.css file, images,and the index.html file. You would then add your content to index.html as needed and you're good to go!
 
 ## Technologies Used
-{HTML and CSS.}
+HTML and CSS.
 ## Support and contact details
-{For any questions,concerns or ideas please contact me at nziokaivy@gmail.com.
+For any questions,concerns or ideas please contact me at nziokaivy@gmail.com.
 ### License
 ###MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
