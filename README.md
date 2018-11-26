@@ -1,12 +1,12 @@
 # Application Name: My portfolio landing page.
-#### Description:
+## Description:
 This is a simple one-page portfolio landing page that is meant to showcase skills learnt in class on the usage of HTML and CSS.
 ## Current Version Date:
 26th November 2018.
-#### Author Name:
+## Author Name:
 By **Ivy Nzioka**
 ## Description
-This repo contains a simple one-page personal portfolio landing page that was created with HTML and CSS. The site is static.You can edit styles, colours, and scripts fairly easily.PLease find link to site [here](https://github.com/nziokaivy/miniature-octo-adventure)
+This repo contains a simple one-page personal portfolio landing page that was created with HTML and CSS. The site is static.You can edit styles, colours, and scripts fairly easily.Please find link to site [here](https://github.com/nziokaivy/miniature-octo-adventure)
 
 ## Setup/Installation Requirements
 Using The Template As It Is
@@ -16,7 +16,7 @@ If you wish to use the template as is (i.e. how it's seen in the demo), then all
 HTML and CSS.
 ## Support and contact details
 For any questions,concerns or ideas please contact me at nziokaivy@gmail.com.
-### License
+## License
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
